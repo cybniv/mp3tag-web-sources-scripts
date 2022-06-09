@@ -245,17 +245,17 @@ If "albums"
 			Say "0"
 		EndIf
 
-#		json_select "recordLabel"
-#		OutputTo "LABEL"
-#		SayRest
+		json_select "recordLabel"
+		OutputTo "LABEL"
+		SayRest
 
-#		json_select "trackCount"
-#		OutputTo "TOTALTRACKS"
-#		SayNextNumber
+		json_select "trackCount"
+		OutputTo "TOTALTRACKS"
+		SayNextNumber
 
-#		json_select "upc"
-#		OutputTo "UPC"
-#		SayRest
+		json_select "upc"
+		OutputTo "UPC"
+		SayRest
 
 	json_unselect_object
 
