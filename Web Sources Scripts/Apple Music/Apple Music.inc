@@ -467,7 +467,7 @@ If "albums"
 					Say "|"
 
 					OutputTo "ITUNESCOUNTRYID"
-					Say "143441"
+					Say "143443"
 					Say "|"
 
 #					OutputTo "ITUNESACCOUNT"
